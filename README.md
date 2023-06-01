@@ -21,16 +21,16 @@ It use SiamRPN to finish object tracking. The codes was based on [huanglianghua/
 * CUDA 8.0 or higher
 ### For example
 In **Detection** stage. It will detects all cars in the first frame as shown below.
-![image](https://github.com/mj000001/Object-Detection-And-Tracking/blob/master/others/out.jpg)
+![image](https://github.com/mhateer/Object-Detection-And-Tracking/blob/master/others/out.jpg)
 
 In **Identify** stage. We want to track the car as shown below. It could determine the initial position of the target based on **Detection** stage.  
-![image](https://github.com/mj000001/Object-Detection-And-Tracking/blob/master/examplar.png)
+![image](https://github.com/mhateer/Object-Detection-And-Tracking/blob/master/examplar.png)
 
 In **Tracking** stage. It will track the car.
 ## Installation and demo
   1. Clone the code:
   ```
-  git clone https://github.com/mj000001/Object-Detection-And-Tracking.git
+  git clone https://github.com/mhateer/Object-Detection-And-Tracking.git
   ```
   2. Create a folder:
   ```
